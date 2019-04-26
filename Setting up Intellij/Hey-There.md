@@ -1,0 +1,4 @@
+#Hey There!
+This directory will teach you how to properly install Intellij on your computer.
+
+Intellij is an IDE for creating Java projects. I recommend it among other IDEs.
